@@ -1,0 +1,22 @@
+.anchor{
+    text-decoration: none;
+}
+
+.social{
+    display: inline;
+}
+
+body{
+
+    background-color: rgb(244, 199, 140);
+}
+
+.btn{
+    transition-property:transform;
+	transition-duration:1s;
+}
+
+.btn:hover{
+	transform:scale(1.3)
+}
+
